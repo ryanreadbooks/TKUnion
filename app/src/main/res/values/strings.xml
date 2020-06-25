@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">TKUnion</string>
+    <string name="app_name">领奖联盟</string>
+    <string name="home">首页</string>
+    <string name="recommendation">精选</string>
+    <string name="red_packet">特惠</string>
+    <string name="search">搜索</string>
+    <string name="ticket">领券</string>
+    <string name="search_box_hints">输入你想要搜索的宝贝…</string>
+    <!--    imageView的描述-->
+    <string name="scan_content_description" translatable="false">二维码扫描</string>
+    <string name="error_and_retry">网络错误,点击重试</string>
+    <string name="loading">玩命加载中…</string>
+    <string name="empty">哦豁,似乎没有东西呢</string>
 </resources>
